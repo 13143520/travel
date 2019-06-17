@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [01/Jun/2019:15:49:02 +0800] "GET /travel/header.html HTTP/1.1" 304 - http-bio-80-exec-2 63
+0:0:0:0:0:0:0:1 - - [01/Jun/2019:15:49:02 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-80-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Jun/2019:15:49:02 +0800] "GET /travel/findUserServlet HTTP/1.1" 200 4 http-bio-80-exec-3 139
+0:0:0:0:0:0:0:1 - - [01/Jun/2019:15:49:07 +0800] "GET /travel/css/bootstrap.min.css.map HTTP/1.1" 404 1015 http-bio-80-exec-6 11
+0:0:0:0:0:0:0:1 - - [01/Jun/2019:15:50:10 +0800] "GET /travel/login.html HTTP/1.1" 304 - http-bio-80-exec-8 20
+0:0:0:0:0:0:0:1 - - [01/Jun/2019:15:50:11 +0800] "GET /travel/findUserServlet HTTP/1.1" 200 4 http-bio-80-exec-9 1
+0:0:0:0:0:0:0:1 - - [01/Jun/2019:15:50:12 +0800] "GET /travel/checkCode HTTP/1.1" 200 285 http-bio-80-exec-10 1989
